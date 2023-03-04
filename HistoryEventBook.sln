@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryEventBook", "HistoryEventBook\HistoryEventBook.csproj", "{060912A8-781A-48A1-99C9-09BA0462CEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060912A8-781A-48A1-99C9-09BA0462CEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060912A8-781A-48A1-99C9-09BA0462CEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060912A8-781A-48A1-99C9-09BA0462CEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060912A8-781A-48A1-99C9-09BA0462CEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2266E991-17F5-4199-A9FA-42FC0DFD2565}
+	EndGlobalSection
+EndGlobal
